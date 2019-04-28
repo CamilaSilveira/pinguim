@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header';
-import NavBar from './Components/NavBar';
 import Divider from './Components/Divider';
 import About from './Components/About';
 import Carousel from './Components/Carousel';
@@ -18,7 +16,6 @@ function App() {
   return (
     <div>
       <Header />
-      <NavBar />
       <Divider />
       <About />
       <Divider />

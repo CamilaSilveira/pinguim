@@ -68,45 +68,45 @@ const Footer = () => (
                         </div>
                     </div>
 
-                        <div className="social-icons">
-                            <ul className="social">
-                                <li>
-                                    <a className="twitter" href="#" title="twitter"></a>
-                                </li>
-                                <li>
-                                    <a className="facebook" href="#" title="facebook"></a>
-                                </li>
-                                <li>
-                                    <a className="google" href="#" title="google"></a>
-                                </li>
-                                <li>
-                                    <a className="linkedin" href="#" title="linkedin"></a>
-                                </li>
-                                <li>
-                                    <a className="youtube" href="#" title="youtube"></a>
-                                </li>
-                            </ul>
-                        </div>
-                       
+                    <div className="social-icons">
+                        <ul className="social">
+                            <li>
+                                <a className="twitter" href="https://twitter.com/login" title="twitter"></a>
+                            </li>
+                            <li>
+                                <a className="facebook" href="https://www.facebook.com/" title="facebook"></a>
+                            </li>
+                            <li>
+                                <a className="google" href="https://www.google.com/" title="google"></a>
+                            </li>
+                            <li>
+                                <a className="linkedin" href="https://www.linkedin.com/" title="linkedin"></a>
+                            </li>
+                            <li>
+                                <a className="youtube" href="https://www.youtube.com/" title="youtube"></a>
+                            </li>
+                        </ul>
                     </div>
 
-                </div>
-
-                <div className="bottom-footer">
-                    <div className="row">
-                        <div className="col-xs-12">
-
-                            <p className="text-center">Copyright © 2019 Pinguim Software All Rights Reserved | Created with Love by <a href="http://triosdevelopers.com/~C.D.Silveira/portfolio/" target="_blank">Camila Silveira</a></p>
-
-                        </div>
-                    </div>
                 </div>
 
             </div>
 
+            <div className="bottom-footer">
+                <div className="row">
+                    <div className="col-xs-12">
+
+                        <p className="text-center">Copyright © 2019 Pinguim Software All Rights Reserved | Created with Love by <a href="http://triosdevelopers.com/~C.D.Silveira/portfolio/" target="_blank">Camila Silveira</a></p>
+
+                    </div>
+                </div>
+            </div>
 
         </div>
 
-        );
-       
-       export default Footer;
+
+    </div>
+
+);
+
+export default Footer;

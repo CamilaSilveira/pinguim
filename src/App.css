@@ -1766,6 +1766,8 @@ a:hover {
 .logo {
   float: left;
   text-align: left;
+  height: 200px;
+  width: 200px;
   /*display: inline-block;*/
 }
 
