@@ -303,7 +303,6 @@ body.dark .preloader .loader {
 }
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,600,700,800');
 
-
 /* Boxed Body */
 
 @media(min-width:1200px) {
@@ -2625,7 +2624,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 
 .projectmanager {
   color: #fff;
-  background-image: url("http://via.placeholder.com/1600x650");
+  background-image:url("././Components/img/logo3.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -2849,7 +2848,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .testimonials {
-  background: url("http://via.placeholder.com/1600x650");
+  background:url("././Components/img/logo3.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;

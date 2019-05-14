@@ -16,16 +16,27 @@ function App() {
   return (
     <div>
       <Header />
+
       <Divider />
+
       <About />
+
       <Divider />
+
       <Portfolio />
+
       <Divider />
+
       <Services />
+
       <Carousel />
+
       <Divider />
+
       <Testimonial />
+
       <Divider />
+      
       <Footer />
 
     </div>
