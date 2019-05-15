@@ -14,11 +14,7 @@ const Testimonial = () => (
 
                 <div id="quote-carousel" className="carousel slide" data-ride="carousel">
 
-                    <ol className="carousel-indicators">
-                        <li data-target="#quote-carousel" data-slide-to="0" className="active"></li>
-                        <li data-target="#quote-carousel" data-slide-to="1"></li>
-                        <li data-target="#quote-carousel" data-slide-to="2"></li>
-                    </ol>
+                   
 
                     <div className="carousel-inner">
 

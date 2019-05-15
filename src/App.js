@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Header from './Components/Header';
-import Divider from './Components/Divider';
 import About from './Components/About';
 import Carousel from './Components/Carousel';
 import Footer from './Components/Footer';
@@ -17,26 +16,18 @@ function App() {
     <div>
       <Header />
 
-      <Divider />
+      <Carousel />
 
       <About />
-
-      <Divider />
-
-      <Portfolio />
-
-      <Divider />
 
       <Services />
 
       <Carousel />
 
-      <Divider />
+      <Portfolio />
 
       <Testimonial />
-
-      <Divider />
-      
+    
       <Footer />
 
     </div>
