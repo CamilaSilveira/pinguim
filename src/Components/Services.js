@@ -11,12 +11,6 @@ const Services = () => (
                 <h4>What We Doing</h4>
             </div>
 
-            <div className="divider text-center">
-                <span className="outer-line"></span>
-                <span className="fa fa-cogs" aria-hidden="true"></span>
-                <span className="outer-line"></span>
-            </div>
-
             <div className="row services-box">
 
                 <div className="col-lg-4 col-md-6 col-sm-12 services-box-item">
