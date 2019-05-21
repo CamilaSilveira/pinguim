@@ -1109,7 +1109,7 @@ ul.nav.nav-tabs li.active a:hover {
 
 .projectmanager {
   color: #fff;
-  background-image:url("././Components/img/logo3.png");
+  background-image:url("./assets/img/logo3.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -1332,7 +1332,7 @@ ul.nav.nav-tabs li.active a:hover {
 
 
 .testimonials {
-  background:url("././Components/img/logo3.png");
+  background:url("./assets/img/logo3.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -1341,7 +1341,7 @@ ul.nav.nav-tabs li.active a:hover {
 }
 
 .about {
-  background:url("././Components/img/logo3.png");
+  background:url("./assets/img/logo3.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -2889,42 +2889,42 @@ h1 {
 
 
 .port1 {
-  background-image: url(./Components/img/port1.jpg);
+  background-image: url(./assets/img/port1.jpg);
   width: 120px;
   height: 120px;
 }
 .port2 {
-  background-image: url(./Components/img/port2.jpg);
+  background-image: url(./assets/img/port2.jpg);
   width: 120px;
   height: 120px;
 }
 .port3 {
-  background-image: url(./Components/img/port3.jpg);
+  background-image: url(./assets/img/port3.jpg);
   width: 120px;
   height: 120px;
 }
 .port4 {
-  background-image: url(./Components/img/port4.jpg);
+  background-image: url(./assets/img/port4.jpg);
   width: 120px;
   height: 120px;
 }
 .port5 {
-  background-image: url(./Components/img/port5.jpg);
+  background-image: url(./assets/img/port5.jpg);
   width: 120px;
   height: 120px;
 }
 .port6 {
-  background-image: url(./Components/img/port6.jpg);
+  background-image: url(./assets/img/port6.jpg);
   width: 120px;
   height: 120px;
 }
 .port7 {
-  background-image: url(./Components/img/port7.jpg);
+  background-image: url(./assets/img/port7.jpg);
   width: 120px;
   height: 120px;
 }
 .port8 {
-  background-image: url(./Components/img/port8.jpg);
+  background-image: url(./assets/img/port8.jpg);
   width: 100%;
   height: 120px;
 }

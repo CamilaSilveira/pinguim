@@ -18,11 +18,11 @@ function App() {
 
       <Carousel />
 
-      <About />
 
       <Services />
 
-      <Carousel />
+      {/* <Carousel /> */}
+      <About />
 
       <Portfolio />
 
